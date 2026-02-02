@@ -25,7 +25,7 @@ This project demonstrates a fully serverless contact form built using AWS servic
 6. Logs stored in CloudWatch
 
 📄 Documentation
-Step-by-step implementation is available in the Word document inside the `report/` folder.
+Step-by-step implementation is available in the Word document inside the (Serverless_ebook.docx) folder.
 
 🚀 Outcome
 - Fully serverless
